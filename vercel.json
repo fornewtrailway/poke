@@ -1,0 +1,5 @@
+{
+  "builds": [
+    { "src": false, "use": "@now/node" }
+  ]
+}
