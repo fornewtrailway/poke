@@ -1,5 +1,4 @@
 {
-  "builds": [
-    { "src": false, "use": "@now/node" }
-  ]
+  "builds": [{ "src": "*", "use": "@vercel/node" }],
+  "version": 2
 }
